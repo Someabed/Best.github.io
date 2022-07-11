@@ -40,7 +40,7 @@ ul li {
 .intro {
     display: flex;
     height: 18.75em;
-    background-image: url("/fresh-fruits-2305192_1920.jpg");
+    background-image: url("fresh-fruits-2305192_1920.jpg");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
